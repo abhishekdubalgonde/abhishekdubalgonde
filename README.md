@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Currently in my third year of BCA, diving deep into the world of Full-Stack Development and Artificial Intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdubalgonde&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdubalgonde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekdubalgonde" alt="abhishekdubalgonde" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhishekd" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekd?logo=twitter&style=for-the-badge" alt="abhishekd" /></a> </p>
 
 - 🔭 I’m currently intern in IBM [Live accident detection](https://github.com/ganesh123zade/traffic_surveillance_system/tree/codespace-laughing-computing-machine-9vwp4vp9v9rfpqxq)
+
+- 😎 my personal portfolio [https://abhishekdubalgonde.github.io/myPortfolio/]
 
 - 🌱 I’m currently learning **Generative AI, Deep learning.**
 
@@ -28,3 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekdubalgonde&show_icons=true&locale=en" alt="abhishekdubalgonde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdubalgonde&" alt="abhishekdubalgonde" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdubalgonde&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdubalgonde" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekdubalgonde" alt="abhishekdubalgonde" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/abhishekd" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekd?logo=twitter&style=for-the-badge" alt="abhishekd" /></a> </p>
