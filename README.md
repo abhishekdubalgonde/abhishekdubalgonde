@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently intern in IBM [Live accident detection](https://github.com/ganesh123zade/traffic_surveillance_system/tree/codespace-laughing-computing-machine-9vwp4vp9v9rfpqxq)
 
-- 😎 my personal portfolio [Portfolio]https://abhishekdubalgonde.github.io/myPortfolio/
+- 😎 my personal portfolio https://abhishekdubalgonde.github.io/myPortfolio/
 
 - 🌱 I’m currently learning **Generative AI, Deep learning.**
 
