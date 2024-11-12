@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently intern in IBM [Live accident detection](https://github.com/ganesh123zade/traffic_surveillance_system/tree/codespace-laughing-computing-machine-9vwp4vp9v9rfpqxq)
+- 🔭 I’m have completed intern with IBM [Live accident detection](https://github.com/ganesh123zade/traffic_surveillance_system/tree/codespace-laughing-computing-machine-9vwp4vp9v9rfpqxq)
 
 - 😎 my personal portfolio https://abhishekdubalgonde.github.io/myPortfolio/
 
